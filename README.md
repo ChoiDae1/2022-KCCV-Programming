@@ -20,5 +20,6 @@ Repo for Learning at 2022 한국컴퓨터비전학회(KCCV) 프로그래밍 (컴
 - Implementing Object Detection Pretrained model and apply it to COCO Dataset.
 - Implementing HOTR.
 
-### 5. Few-Shot Semantic Segmentation -> [code link]
-- Concept of Few-Shot Semantic Segmentation.
+### 5. Few-Shot Semantic Segmentation -> [code link](https://github.com/ChoiDae1/2022_KCCV_Programming/tree/main/Few%20Shot%20Segmentation)
+- Concept of Cost Aggregation and Few-Shot Semantic Segmentation.
+- Implementing CATs and VAT.
